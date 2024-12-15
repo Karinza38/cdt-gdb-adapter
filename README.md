@@ -1,4 +1,4 @@
-# CDT GDB Debug Adapter
+CDT GDB Debug Adapter
 
 This is an implementation of the Debug Adapter Protocol for gdb.
 It is loosely based on the Eclipse CDT MI layer.
